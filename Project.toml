@@ -1,0 +1,16 @@
+version = "1.0.0+0"
+name = "LLVMGPU_jll"
+uuid = "a5c41ef1-0fc2-5e62-838b-0d6f5f7d5115"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Zlib_jll = "83775a58-1f1d-513f-b197-d71354ab007a"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.10"
+JLLWrappers = "1.7.0"
+Zlib_jll = "1.2.12"
+Artifacts = "< 0.0.1, 1"

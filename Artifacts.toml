@@ -1,174 +1,174 @@
 [[LLVMGPU]]
 arch = "aarch64"
-git-tree-sha1 = "23086abe1e68a2382e6fd16414b7c68d3725eb0b"
+git-tree-sha1 = "3721b92307be2e2f7f87e07ebd8a97481e54c493"
 os = "macos"
 
     [[LLVMGPU.download]]
-    sha256 = "d76011a2131887c8b9b42ea7ed7ea1ef887109c42bf9b1dce7af6211a067af43"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "3e97cb8e00f81188f049ad41fe123d223710f27885d3c3ae5e7b4177ff8a7a0e"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.aarch64-apple-darwin.tar.gz"
 [[LLVMGPU]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "91d1b2e6b8ff24ec2a195f42a9768e566dc56f47"
+git-tree-sha1 = "60ac26f0574a2aaa138c1718045987fd2ec683e7"
 libc = "glibc"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "2833997fffa035c818ccc43288354a859dbe94e15a6f79c73f1bb0a2a13ac3e6"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.aarch64-linux-gnu-cxx11.tar.gz"
+    sha256 = "5d198c90fa67815a9fc420210e048c3ccb69d43be5888150b5277ea0228aea27"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.aarch64-linux-gnu-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4023c3ba217d70f7d1cdaf31c9ceda288323eafd"
+git-tree-sha1 = "07e808779278bf296c81b03d443ffb07d87e994a"
 libc = "musl"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "013be6afcff564899f91208f7639054ad4874134fbf5b91aef9061e087253fbd"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.aarch64-linux-musl-cxx11.tar.gz"
+    sha256 = "e62222febca74e29e355023942b216d05c4c4923211599b9826466e7fff34883"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.aarch64-linux-musl-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "aarch64"
-git-tree-sha1 = "00295763479cef757a2aacec8ebd9cfb9539f3dc"
+git-tree-sha1 = "c0e2309601f7524fc22067883b85809995cce32a"
 os = "freebsd"
 
     [[LLVMGPU.download]]
-    sha256 = "499b365ea96b2f9014dd7a5f8a8107c76ff7ca351986b5068a1ae7e71d9c5073"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "233a2453acd958f429c08496f20cc4ab090f4868cf9d49fe459c98e85f9909d2"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.aarch64-unknown-freebsd.tar.gz"
 [[LLVMGPU]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "be5c0229e3a078f3b9c9f42ef7644eca78098491"
+git-tree-sha1 = "2423ef6a9614d1f214a6838a73a2f7c8ae3185db"
 libc = "glibc"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "bec194e25ab3f581ea8723fe45599e32c563544b2f636c3d27e47852424fe0cb"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "47d6606dfdc36eb4f21ee68e367a70841367197ef726e3479cfa4956d41cb4c1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "armv6l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "727e9cbde5fef3a2046f430f2b575885058817a0"
+git-tree-sha1 = "b28a8b370033d3d3ca8c7e01da6070c87d39cd54"
 libc = "musl"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "42f48c901e3dcab2e1de22886693b17d95e2e38a3b4b5bedb2a943014fca1af4"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.armv6l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "f7601de636e24cbbc6888c87a06e24e4cd39a8a14db3676fedb4ae6a5ffb0479"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "34c94f7ee70c785a3f31d7c205ddb04f7876805c"
+git-tree-sha1 = "be485dc7b604b747bf7c7dc455e168562220db31"
 libc = "glibc"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "fbf298c6a93bb57d56d6238a2aaabb3a936c0c73e27d578a6391c7d25bd37717"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    sha256 = "b8af06b94b5c12c1ed0f3830340c1933b79d2b235c85f5b3081dec64e118f966"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "armv7l"
 call_abi = "eabihf"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f313c3bac5f00bcac7b9268bfb6a735627ae9811"
+git-tree-sha1 = "b76b3eb13fa9c07d2b6f69895e31d5a7755f584b"
 libc = "musl"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "14179c6f8970dbebd16eb6cfb11d9fdf9a4d3fadf804903065be6b329a55570b"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.armv7l-linux-musleabihf-cxx11.tar.gz"
+    sha256 = "f060b65816f6c2b9c9d9153dac2d133903f12d3e38b5d8f62bd9c20969168ca7"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f36b89456478aa2f3529cf0ac31d69b795003437"
+git-tree-sha1 = "62575a59b8b9a1375b669b09f972ffd263b12632"
 libc = "glibc"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "5ae1f8e48d4cb7376741f0dba5bce246c0489c1c6554a06541493699898f4c88"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.i686-linux-gnu-cxx11.tar.gz"
+    sha256 = "481b70d20fa297bbbbb33e6533f215b60f746c25a7e88e4939a48d08206b85af"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.i686-linux-gnu-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cc3d6ba740bc9483af7eb5be365eaff78fb3ee18"
+git-tree-sha1 = "7d43e5752745b78275656904a42f6e1073cba3c1"
 libc = "musl"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "2aba0f905b855701dea0590c6ff739bd289568eded2235f9b3d7ec86b72587d4"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.i686-linux-musl-cxx11.tar.gz"
+    sha256 = "0ca7636d076319839985f2f95be8840efbe4fb18c5c5cc5f7542258a2a82a4a1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.i686-linux-musl-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "04c3e9aa19bba7ac3535a974ff58158d01225baf"
+git-tree-sha1 = "084305cafdbe8f32f33588aee5be91642530ea66"
 os = "windows"
 
     [[LLVMGPU.download]]
-    sha256 = "d0d1575cbe40b116a17d2570cb88a4afcf0c2a08f3c82664163e41c6505d638f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.i686-w64-mingw32-cxx11.tar.gz"
+    sha256 = "b19a60c36c89df032b0591e1f463927e77c880b1db0640d20022b1d696c52ab8"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.i686-w64-mingw32-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f7454ee1e8f4704579f1cf4cbda3829a723704a1"
+git-tree-sha1 = "af9998df2a148adfa1c83598f1e8b270d8ad21bb"
 libc = "glibc"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "e3f7e50a10e92f9ff0ea89cf42008563e3e234cefdde83268eb2cb1bb15d3719"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.powerpc64le-linux-gnu-cxx11.tar.gz"
+    sha256 = "b9c4b32a2e4bb46fad8c7369e13b57aaf53c4c7f1ca6dfad3e3c318a563bcb0b"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "riscv64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "aa44ca60885f751dc6b551b702fbd6d82653c686"
+git-tree-sha1 = "459414db6f161804602ff768ba4deca2a649a4c2"
 libc = "glibc"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "e1bfcd5c4908eb499cdf68028f89bbbf22f42ac713a47037e01675568da48080"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.riscv64-linux-gnu-cxx11.tar.gz"
+    sha256 = "47edceb51a41fbec2886881b161ac6aa2d27c9a837225e37a8f0a93206edc70f"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.riscv64-linux-gnu-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "x86_64"
-git-tree-sha1 = "28fcc2208faac44980a045298ff4e26546d90b05"
+git-tree-sha1 = "7db6b2098a8195026b12fafd93a7eb5051bd30b0"
 os = "macos"
 
     [[LLVMGPU.download]]
-    sha256 = "17fd61ef4fe0fea9bac842cf6dcce6c5f26f939f97f2388193d596d1a95f6552"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "6bb110a90a20eacc7cb29ea1eb3c063c11251214ad982af3c34a07720c550b14"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.x86_64-apple-darwin.tar.gz"
 [[LLVMGPU]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "2d79f259a27ec2f4b824e4ed8d4558614686e426"
+git-tree-sha1 = "4319724a572a6761ea35050c729c2cf61ce45e58"
 libc = "glibc"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "c46ac1317110c269e209fef5028fa7b0dc91c3b1eb14b987c17af64888d2d46f"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.x86_64-linux-gnu-cxx11.tar.gz"
+    sha256 = "11dea692bfe21ea3f0af979144ced4180e49221343f2fb06b728b50201502c82"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a8b90a1d0598eb14c9a8f640f56738fd0b397825"
+git-tree-sha1 = "a41775426e889d2fc441b3da93412b63d1a7e328"
 libc = "musl"
 os = "linux"
 
     [[LLVMGPU.download]]
-    sha256 = "18d6fbd7f335e3168f1b375185b6805c301b3118c1d3bd7b4c380afdbb2bc299"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.x86_64-linux-musl-cxx11.tar.gz"
+    sha256 = "fa1d4cec65baddd25f1164d5088e5ca0e9d3ba1fbfadfc820dfa23145cf379b1"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.x86_64-linux-musl-cxx11.tar.gz"
 [[LLVMGPU]]
 arch = "x86_64"
-git-tree-sha1 = "ab79e8d8301026e91a4e43afdab25741c493628c"
+git-tree-sha1 = "dd256f9d995747cf721244602d355736fde72530"
 os = "freebsd"
 
     [[LLVMGPU.download]]
-    sha256 = "f00be12f7eeabff06420f868671216b0c4657e31cb7a120d31f8f99b189dadb9"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "2c7c54917d995a2992f193297c7fffa623edf58ffca6fc9af3d3d56c8349a887"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.x86_64-unknown-freebsd.tar.gz"
 [[LLVMGPU]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "465262d4f96989d5586fdc0e7bdd208eb616d602"
+git-tree-sha1 = "e5733a2f1ed240410d4a9a76f7340d068cec5bcf"
 os = "windows"
 
     [[LLVMGPU.download]]
-    sha256 = "39152bc8245f4fa1db0dd6d65206a9dd95ce93bd319fe00d9521e2fa93d39b15"
-    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.4.1+1/LLVMGPU.v1.4.1.x86_64-w64-mingw32-cxx11.tar.gz"
+    sha256 = "705e7dffa9c1765ffab92ed17a9dbecef15dca4420d2d33a5a8344c214b256a4"
+    url = "https://github.com/JuliaBinaryWrappers/LLVMGPU_jll.jl/releases/download/LLVMGPU-v1.5.0+0/LLVMGPU.v1.5.0.x86_64-w64-mingw32-cxx11.tar.gz"
